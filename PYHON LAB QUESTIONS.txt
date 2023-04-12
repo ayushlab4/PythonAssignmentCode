@@ -1,0 +1,15 @@
+				PYTHON LAB QUESTIONS
+1. write a python script to enter 10 random integers values and display them in sorted order with and without using the sort function.
+2. write a python script  to enter five different strings and display them according to the askie values of the first characters in a sorted way.
+3. write a python script to find the greatest number in a list of integers given by user.
+4. write a python script to calculate the sum of all integers of a list given by the user.
+5. write a python script to create a list of square of first n natural numbers. use for loop to fill list with elements. value of n taken by the user.
+6. write a python script to create a list of first n prime numbers.
+7. write a python script to enter a string and count how many vowels are there.
+8. write a python script to reverse a string.
+9. write a python script to count the occurence of characters used in that string.
+10. write a python function to calculate LCM of two numbers.
+11.write a python fucntion to print reverse of a binary representaion of a number.
+12. write a python function to print sum of all even numbers and sum of all odd numbers from a given list of integer values.
+13. write a python function to print the next prime number of a given number.
+14.write a python function which takes a couple of integers values and return a dictionary whose each item is a pair of integer value and its frequency in the tuple.
